@@ -256,4 +256,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Simon Fox Kuuse
 * Katrin Press
 * RagnarKru
+* Jelena
 * ADD YOUR NAME ABOVE HERE
